@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Navani</h1>
-<h3 align="center">Aspiring Full Stack Web Developer from India</h3>
+<h3 align="center">Aspiring Full Stack Web Developer (MERN) from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akashnavani&label=Profile%20views&color=0e75b6&style=flat" alt="akashnavani" />
@@ -10,10 +10,9 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech student in **Information Science and Engineering** at **MSRIT**
-- 💡 Passionate about **Full Stack Web Development** using **Java**, **Spring Boot**, **HTML**, **CSS**, and **JavaScript**
-- 🔭 Currently building **Java-based Full Stack Projects** to master real-world development
-- 🌱 Learning **Data Structures & Algorithms**, **Frontend Technologies**, and **REST APIs**
-- ⚙️ Exploring backend tools like **MySQL**, **Spring Security**, and **JPA**
+- 💡 Passionate about **Full Stack Web Development** using **MERN Stack (MongoDB, Express.js, React.js, Node.js)**
+- 🔭 Currently building **MERN projects** to master real-world development
+- 🌱 Learning **Data Structures & Algorithms in Java** and advancing **Next.js**
 - 📫 Reach me at: **akashnavani25@gmail.com**
 
 ---
@@ -40,26 +39,26 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
 </p>
 
