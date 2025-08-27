@@ -20,7 +20,7 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/akash-navani-840a9b319" target="blank">
+  <a href="https://www.linkedin.com/in/akash-navani-176b92378/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-navani" height="30" width="40" />
   </a>
 </p>
