@@ -12,7 +12,7 @@
 - 🎓 B.Tech student in **Information Science and Engineering** at **MSRIT**
 - 💡 Passionate about **Full Stack Web Development** using **MERN Stack (MongoDB, Express.js, React.js, Node.js)**
 - 🔭 Currently building **MERN projects** to master real-world development
-- 🌱 Learning **Data Structures & Algorithms in Java** and advancing **Next.js**
+- 🌱 Learning **Data Structures & Algorithms in Java** and advancing **Node.js**
 - 📫 Reach me at: **akashnavani25@gmail.com**
 
 ---
