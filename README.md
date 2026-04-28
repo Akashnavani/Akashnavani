@@ -9,12 +9,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech student in **Information Science and Engineering** at **MSRIT**
-- 🔥 Passionate **Backend Developer** focusing on **Node.js + Express.js**
-- 💡 Building real-world backend systems & APIs
-- 🌱 Currently doing **Data Structures & Algorithms in Java**
-- ☁ Learning authentication, JWT, sessions, and database integrations
-- 📫 Reach me at: **akashnavani25@gmail.com**
+- B.E student in **Information Science and Engineering** at **MSRIT**
+- Passionate **Backend Developer** focusing on **Node.js + Express.js**
+- Building real-world backend systems & APIs
+- Currently doing **Data Structures & Algorithms in Java**
+- Learning authentication, JWT, sessions, and database integrations
+- Reach me at: **akashnavani25@gmail.com**
 
 ---
 
