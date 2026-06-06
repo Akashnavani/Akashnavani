@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer (Node.js & Express.js) | DSA in Java</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akashnavani&label=Profile%20views&color=0e75b6&style=flat" alt="akashnavani" />
+  <img src="https://komarev.com/ghpvc/?username=Akashnavani&label=Profile%20views&color=0e75b6&style=flat" alt="akashnavani" />
 </p>
 
 ---
@@ -27,6 +27,7 @@
 </p>
 
 ---
+
 ## 🛠️ Languages and Tools
 
 <table>
@@ -40,8 +41,12 @@
   </tr>
 </table>
 
+---
+
+
 ## 📊 GitHub Stats
 
-<p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=akashnavani&show_icons=true&theme=default" alt="akashnavani" />
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Akashnavani&theme=radical" />
 </p>
