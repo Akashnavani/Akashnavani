@@ -44,9 +44,3 @@
 ---
 
 
-## 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Akashnavani&theme=radical" />
-</p>
