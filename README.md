@@ -9,12 +9,13 @@
 
 ## 👨‍💻 About Me
 
-- B.E student in **Information Science and Engineering** at **MSRIT**
-- Passionate **Backend Developer** focusing on **Node.js + Express.js**
-- Building real-world backend systems & APIs
-- Currently doing **Data Structures & Algorithms in Java**
-- Learning authentication, JWT, sessions, and database integrations
-- Reach me at: **akashnavani25@gmail.com**
+* B.E. student in **Information Science and Engineering** at **MSRIT**
+* Passionate **Full Stack Developer** building scalable web applications with the **MERN Stack**
+* Experienced in developing responsive frontends with **React.js** and robust backend systems using **Node.js, Express.js, and MongoDB**
+* Building real-world full-stack projects, REST APIs, and database-driven applications
+* Currently practicing **Data Structures & Algorithms in Java**
+* Learning advanced authentication, JWT, session management, database optimization, and system design
+* Reach me at: **[akashnavani25@gmail.com](mailto:akashnavani25@gmail.com)**
 
 ---
 
