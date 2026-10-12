@@ -9,7 +9,7 @@
 
 # About Me
 
-I'm a **Software Engineer** and **B.E. student in Information Science & Engineering at MS Ramaiah Institute of Technology (MSRIT)** with a strong passion for building scalable, secure, and high-performance web applications.
+I'm **Akash Navani**, a **B.E. student in Information Science & Engineering at MS Ramaiah Institute of Technology (MSRIT)**, with a strong passion for building scalable, secure, and high-performance web applications.
 
 I specialize in **Full Stack Development** using the **MERN Stack**, with hands-on experience in designing and developing production-ready applications from frontend to backend. My experience includes building **REST APIs**, implementing **JWT Authentication**, developing **real-time applications using Socket.io**, integrating databases, and creating responsive, user-friendly interfaces.
 
